@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Saying hello to our firnd
+# Saying hello to our friend
 echo "Hello Manny!"
 
 
 # Also say hello to his kids!
-echo "Hello mAnny's Kids!!!"
+echo "Hello Manny's Kids!!!"
